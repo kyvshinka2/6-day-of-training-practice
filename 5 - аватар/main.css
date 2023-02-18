@@ -1,0 +1,162 @@
+body {
+    background: #ffdfdf;
+}
+
+.absol2 {
+    position: absolute;
+    left: 450px;
+    top: -40px;
+    z-index: 1000;
+}
+
+.center {
+    margin-left: 30%;
+}
+
+.absol {
+    position: absolute;
+    left: 20px;
+    top: 70px;
+    z-index: 1;
+}
+
+
+/* кнопки */
+
+.left1 {
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    top: 200px;
+    left: 400px;
+    font-size: 20px;
+    background: rgb(152, 11, 11);
+    border-radius: 5px;
+    border: none;
+}
+
+.right2 {
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    top: 200px;
+    left: 1100px;
+    font-size: 20px;
+    background: rgb(152, 11, 11);
+    border-radius: 5px;
+    border: none;
+}
+
+.left3 {
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    top: 300px;
+    left: 400px;
+    font-size: 20px;
+    background: rgb(152, 11, 11);
+    border-radius: 5px;
+    border: none;
+}
+
+.right3 {
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    top: 300px;
+    left: 1100px;
+    font-size: 20px;
+    background: rgb(152, 11, 11);
+    border-radius: 5px;
+    border: none;
+}
+
+.img1 {
+    width: 200px;
+    height: 200px;
+    margin-left: 300px;
+    margin-top: 200px;
+    position: relative;
+}
+
+.img2 {
+    width: 100px;
+    height: 100px;
+    margin-left: 330px;
+    margin-top: 160px;
+}
+
+.img3 {
+    width: 100px;
+    height: 100px;
+    margin-left: 350px;
+    margin-top: 110px;
+}
+
+.img4 {
+    width: 100px;
+    height: 100px;
+    margin-left: 350px;
+    margin-top: 145px;
+}
+
+.img5 {
+    width: 140px;
+    height: 100px;
+    margin-left: 330px;
+    margin-top: 112px;
+}
+
+.img6 {
+    width: 120px;
+    height: 100px;
+    margin-left: 335px;
+    margin-top: 130px;
+}
+
+.img7 {
+    width: 100px;
+    height: 100px;
+    margin-left: 340px;
+    margin-top: 125px;
+}
+
+.img9 {
+    width: 100px;
+    height: 100px;
+    margin-left: 330px;
+    margin-top: 115px;
+}
+
+.img10 {
+    width: 120px;
+    height: 100px;
+    margin-left: 330px;
+    margin-top: 115px;
+}
+
+.img11 {
+    width: 120px;
+    height: 100px;
+    margin-left: 330px;
+    margin-top: 110px;
+}
+
+.img12 {
+    width: 150px;
+    height: 120px;
+    margin-left: 320px;
+    margin-top: 125px;
+}
+
+.img13 {
+    width: 150px;
+    height: 120px;
+    margin-left: 320px;
+    margin-top: 120px;
+}
+
+.img17 {
+    margin-left: 1200px;
+    margin-top: -500px;
+}
